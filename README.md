@@ -5,7 +5,7 @@
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;Programming+the+future+and+changing+lives" alt="typing-header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;Programming+the+World" alt="typing-header"/>
 </p>
 
 <p align="center"><em>they / them — hardware whisperer, project wrangler &amp; network tamer</em></p>
@@ -75,7 +75,8 @@
 ![Agile](https://img.shields.io/badge/Agile-006dff?style=for-the-badge&logo=scrumalliance&logoColor=0d1117)\
 ![OKRs](https://img.shields.io/badge/OKRs-00ffd1?style=for-the-badge&logo=target&logoColor=0d1117)
 
-<p align="center" style="margin-top: 6px;"><em>5-year mastery leading teams across various projects</em></p>
+<br/><br/>
+<em>5-year mastery leading teams across various projects</em>
 
 </td>
 <td>
