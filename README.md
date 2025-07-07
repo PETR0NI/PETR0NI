@@ -1,6 +1,6 @@
 <!-- ════════════════════════  TOP WAVE  ════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b30000,d3d3d3§ion=header"/>
+  <img src="https://imgur.com/a/jnQtxmV"/>
 </p>
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
