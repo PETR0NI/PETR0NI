@@ -126,4 +126,37 @@ Hardware Diagnosis&nbsp;•&nbsp;Network Maintenance
 </p>
 
 <p align="center">
-  <a href="https://www.howhow.com.br/"><img src="https://img.shields.io/badge/PORTFOLIO-ff0000?style=for-the-badge&logo=About
+  <a href="https://www.howhow.com.br/"><img src="https://img.shields.io/badge/PORTFOLIO-ff0000?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LINKEDIN-d3d3d3?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
+  <a href="mailto:renan@preseti.com"><img src="https://img.shields.io/badge/EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
+</p>
+
+<!-- ── DIVIDER ── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=ff0000,d3d3d3,ff0000" width="80%" />
+</p>
+
+<!-- ═════════════════════  STATS  ═════════════════════ -->
+<p align="center">
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">GITHUB</span>&nbsp;
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">STATS</span>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petroni&show_icons=true&hide_border=true&title_color=d3d3d3&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" width="46%"/>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petroni&hide_border=true&ring=d3d3d3&fire=ff0000&currStreakNum=d3d3d3&sideNums=ff0000&sideLabels=c9d1d9&background=0d1117" width="46%"/>
+</p>
+
+<!-- ── DIVIDER ── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=d3d3d3,ff0000,d3d3d3" width="80%" />
+</p>
+
+<p align="center" style="color:#7d7d7d;font-family:'Courier New',monospace;">
+  // wired for resilience, coded for velocity
+</p>
+
+<!-- ═══════════════════════  BOTTOM WAVE  ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=d3d3d3,ff0000&section=footer"/>
+</p>
