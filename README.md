@@ -5,7 +5,7 @@
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;full-stack+mindset+%7C+people+driven" alt="typing-header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;Programming+the+future+and+changing+lives" alt="typing-header"/>
 </p>
 
 <p align="center"><em>they / them — hardware whisperer, project wrangler &amp; network tamer</em></p>
@@ -75,6 +75,8 @@
 ![Agile](https://img.shields.io/badge/Agile-006dff?style=for-the-badge&logo=scrumalliance&logoColor=0d1117)\
 ![OKRs](https://img.shields.io/badge/OKRs-00ffd1?style=for-the-badge&logo=target&logoColor=0d1117)
 
+<p align="center" style="margin-top: 6px;"><em>5-year mastery leading teams across various projects</em></p>
+
 </td>
 <td>
 
@@ -123,8 +125,8 @@ Hardware Diagnosis&nbsp;•&nbsp;Network Maintenance
 </p>
 
 <p align="center">
-  <a href="https://petroni.dev"><img src="https://img.shields.io/badge/PORTFOLIO-006dff?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
-  <a href="https://linkedin.com/in/renanpetroni"><img src="https://img.shields.io/badge/LINKEDIN-00ffd1?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
+  <a href="https://www.howhow.com.br/"><img src="https://img.shields.io/badge/PORTFOLIO-006dff?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LINKEDIN-00ffd1?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
   <a href="mailto:renan@preseti.com"><img src="https://img.shields.io/badge/EMAIL-006dff?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
 </p>
 
