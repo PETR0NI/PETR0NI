@@ -1,24 +1,24 @@
 <!-- ════════════════════════  TOP WAVE  ════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=006dff,00ffd1&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=ff0000,d3d3d3&section=header"/>
 </p>
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=00FFD1&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;Programming+the+World" alt="typing-header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=52&duration=3500&pause=600&color=d3d3d3&center=true&vCenter=true&width=980&height=90&lines=PETR0NI;COO+%40+Preseti+Group;Programming+the+World" alt="typing-header"/>
 </p>
 
 <p align="center"><em>they / them — hardware whisperer, project wrangler &amp; network tamer</em></p>
 
-<!-- ── BLUE-CYAN DIVIDER ── -->
+<!-- ── RED-GRAY DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=006dff,00ffd1,006dff" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=ff0000,d3d3d3,ff0000" width="80%" />
 </p>
 
 <!-- ═════════════════════  NORTH STAR  ═════════════════════ -->
 <p align="center">
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#006dff;">NORTH</span>&nbsp;
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#00ffd1;">STAR</span>
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">NORTH</span>&nbsp;
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">STAR</span>
 </p>
 
 <div align="center">
@@ -37,13 +37,13 @@
 
 <!-- ── DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=00ffd1,006dff,00ffd1" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=d3d3d3,ff0000,d3d3d3" width="80%" />
 </p>
 
 <!-- ═════════════════════  SKILL MATRIX  ═════════════════════ -->
 <p align="center">
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#00ffd1;">SKILL</span>&nbsp;
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#006dff;">MATRIX</span>
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">SKILL</span>&nbsp;
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">MATRIX</span>
 </p>
 
 <div align="center">
@@ -56,24 +56,24 @@
 <tr>
 <td>
 
-![Node.js](https://img.shields.io/badge/Node.js-006dff?style=for-the-badge&logo=node.js&logoColor=0d1117)\
-![TypeScript](https://img.shields.io/badge/TypeScript-00ffd1?style=for-the-badge&logo=typescript&logoColor=0d1117)\
-![React](https://img.shields.io/badge/React-006dff?style=for-the-badge&logo=react&logoColor=0d1117)\
-![Next.js](https://img.shields.io/badge/Next.js-00ffd1?style=for-the-badge&logo=next.js&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-ff0000?style=for-the-badge&logo=node.js&logoColor=0d1117)\
+![TypeScript](https://img.shields.io/badge/TypeScript-d3d3d3?style=for-the-badge&logo=typescript&logoColor=0d1117)\
+![React](https://img.shields.io/badge/React-ff0000?style=for-the-badge&logo=react&logoColor=0d1117)\
+![Next.js](https://img.shields.io/badge/Next.js-d3d3d3?style=for-the-badge&logo=next.js&logoColor=0d1117)
 
 </td>
 <td>
 
-![Docker](https://img.shields.io/badge/Docker-006dff?style=for-the-badge&logo=docker&logoColor=0d1117)\
-![Kubernetes](https://img.shields.io/badge/K8s-00ffd1?style=for-the-badge&logo=kubernetes&logoColor=0d1117)\
-![Terraform](https://img.shields.io/badge/Terraform-006dff?style=for-the-badge&logo=terraform&logoColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-ff0000?style=for-the-badge&logo=docker&logoColor=0d1117)\
+![Kubernetes](https://img.shields.io/badge/K8s-d3d3d3?style=for-the-badge&logo=kubernetes&logoColor=0d1117)\
+![Terraform](https://img.shields.io/badge/Terraform-ff0000?style=for-the-badge&logo=terraform&logoColor=0d1117)
 
 </td>
 <td>
 
-![People Mgmt](https://img.shields.io/badge/People Management-00ffd1?style=for-the-badge&logo=openaccess&logoColor=0d1117)\
-![Agile](https://img.shields.io/badge/Agile-006dff?style=for-the-badge&logo=scrumalliance&logoColor=0d1117)\
-![OKRs](https://img.shields.io/badge/OKRs-00ffd1?style=for-the-badge&logo=target&logoColor=0d1117)
+![People Mgmt](https://img.shields.io/badge/People Management-d3d3d3?style=for-the-badge&logo=openaccess&logoColor=0d1117)\
+![Agile](https://img.shields.io/badge/Agile-ff0000?style=for-the-badge&logo=scrumalliance&logoColor=0d1117)\
+![OKRs](https://img.shields.io/badge/OKRs-d3d3d3?style=for-the-badge&logo=target&logoColor=0d1117)
 
 <br/><br/>
 <em>5-year mastery leading teams across various projects</em>
@@ -93,13 +93,13 @@ Hardware Diagnosis&nbsp;•&nbsp;Network Maintenance
 
 <!-- ── DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=006dff,00ffd1,006dff" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=ff0000,d3d3d3,ff0000" width="80%" />
 </p>
 
 <!-- ═════════════════════  FIELD NOTES  ═════════════════════ -->
 <p align="center">
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#006dff;">FIELD</span>&nbsp;
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#00ffd1;">NOTES</span>
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">FIELD</span>&nbsp;
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">NOTES</span>
 </p>
 
 <div align="center">
@@ -117,39 +117,39 @@ Hardware Diagnosis&nbsp;•&nbsp;Network Maintenance
 
 <!-- ── DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=00ffd1,006dff,00ffd1" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=d3d3d3,ff0000,d3d3d3" width="80%" />
 </p>
 
 <!-- ═════════════════════  COORDINATES  ═════════════════════ -->
 <p align="center">
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#00ffd1;">COOR</span><span style="font-size:1.9rem;letter-spacing:3px;color:#006dff;">DINATES</span>
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">COOR</span><span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">DINATES</span>
 </p>
 
 <p align="center">
-  <a href="https://www.howhow.com.br/"><img src="https://img.shields.io/badge/PORTFOLIO-006dff?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LINKEDIN-00ffd1?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
-  <a href="mailto:renan@preseti.com"><img src="https://img.shields.io/badge/EMAIL-006dff?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
+  <a href="https://www.howhow.com.br/"><img src="https://img.shields.io/badge/PORTFOLIO-ff0000?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LINKEDIN-d3d3d3?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
+  <a href="mailto:renan@preseti.com"><img src="https://img.shields.io/badge/EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
 </p>
 
 <!-- ── DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=006dff,00ffd1,006dff" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=ff0000,d3d3d3,ff0000" width="80%" />
 </p>
 
 <!-- ═════════════════════  STATS  ═════════════════════ -->
 <p align="center">
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#00ffd1;">GITHUB</span>&nbsp;
-  <span style="font-size:1.9rem;letter-spacing:3px;color:#006dff;">STATS</span>
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#d3d3d3;">GITHUB</span>&nbsp;
+  <span style="font-size:1.9rem;letter-spacing:3px;color:#ff0000;">STATS</span>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petroni&show_icons=true&hide_border=true&title_color=00ffd1&icon_color=006dff&text_color=c9d1d9&bg_color=0d1117" width="46%"/>&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petroni&hide_border=true&ring=00ffd1&fire=006dff&currStreakNum=00ffd1&sideNums=006dff&sideLabels=c9d1d9&background=0d1117" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=petroni&show_icons=true&hide_border=true&title_color=d3d3d3&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" width="46%"/>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petroni&hide_border=true&ring=d3d3d3&fire=ff0000&currStreakNum=d3d3d3&sideNums=ff0000&sideLabels=c9d1d9&background=0d1117" width="46%"/>
 </p>
 
 <!-- ── DIVIDER ── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=00ffd1,006dff,00ffd1" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=d3d3d3,ff0000,d3d3d3" width="80%" />
 </p>
 
 <p align="center" style="color:#7d7d7d;font-family:'Courier New',monospace;">
@@ -158,5 +158,5 @@ Hardware Diagnosis&nbsp;•&nbsp;Network Maintenance
 
 <!-- ═══════════════════════  BOTTOM WAVE  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00ffd1,006dff&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=d3d3d3,ff0000&section=footer"/>
 </p>
