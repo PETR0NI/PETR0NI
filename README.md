@@ -5,7 +5,7 @@
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="3504707806229698375" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/mha-bnha-aizawa-shota-wind-gif-3504707806229698375">Mha Bnha GIF</a>from <a href="https://tenor.com/search/mha-gifs">Mha GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/7F6Yf4eM6eEAAAAd/mha-bnha-aizawa-shota-wind.gif" width="100%" alt="aizawa-shota-gif"/>
 </p>
 
 <p align="center"><em>they / them — hardware whisperer, project wrangler & network tamer</em></p>
@@ -66,7 +66,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-b30000?style=for-the-badge&logo=docker&logoColor=0d1117)\
 ![Kubernetes](https://img.shields.io/badge/K8s-d3d3d3?style=for-the-badge&logo=kubernetes&logoColor=0d1117)\
-![Terraform](https://img.shields.io/badge/Terraform-b30000?style=for-the-badge&logo=terraform&logoColor=0d1117)
+![Terraform](https://img.shields.io/badge/Terraform-b30000?style-for-the-badge&logo=terraform&logoColor=0d1117)
 
 </td>
 <td>
